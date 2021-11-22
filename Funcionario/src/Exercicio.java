@@ -8,7 +8,7 @@ public class Exercicio{
         novoFuncionario.setHorasTrabalhadas(15);
         novoFuncionario.setValorPorHora(32.50);
         novoFuncionario.nomeCompleto();
-        novoFuncionario.incrementarHoras(8);
+        novoFuncionario.incrementarHoras(6);
         novoFuncionario.calcularSalario();
     }
 }
