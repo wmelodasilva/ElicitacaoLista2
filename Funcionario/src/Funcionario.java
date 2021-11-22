@@ -1,3 +1,5 @@
+package Funcionario.src;
+//Exercicio numero 1
 public class Funcionario {
     private String nome;
     private String sobrenome;
@@ -42,7 +44,7 @@ public class Funcionario {
     }
 
     public void calcularSalario(){
-        double salario = this.horasTrabalhadas * valorPorHora;
+        double salario = horasTrabalhadas * valorPorHora;
         System.out.println("O salario do funcionário "+getNome()+" é de: R$ "+salario+" reais");
     }
 
