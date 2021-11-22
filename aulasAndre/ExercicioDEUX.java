@@ -2,7 +2,7 @@ package aulasAndre;
 public class ExercicioDEUX {
 	
 	private int PaginasLidas;
-	private int Qntpagina;
+	private int Qntpagina;   
 	private String Titulo;
 
 
