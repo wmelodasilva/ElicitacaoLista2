@@ -4,8 +4,6 @@ public class ExercicioDEUX {
 	private int PaginasLidas;
 	private int Qntpagina;
 	private String Titulo;
-	
-  
 	public int getQntpagina() {
 		return Qntpagina;
 	}
