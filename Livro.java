@@ -7,7 +7,7 @@ public class Livro {
 		
 		ExercicioDEUX livro = new ExercicioDEUX();
 		
-		livro.setTitulo("Bruna surfistinha");
+		livro.setTitulo("Evellyn Hugo e sus 7 esposos");
 	
 		livro.setQntpagina(300);
 		
