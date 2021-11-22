@@ -31,6 +31,6 @@ public class Filme {
 	}
     
     void teste(){
-        System.out.printf("O filme %s possui um total de %.0f minutos ou aproximadamente %.0f horas", getTitulo(), getDuracaoEmMinutos(), getDuracaoEmHoras());
+        System.out.printf("O filme %s possui um total de %.0f minutos ou aproximadamente %.0f horas\n", getTitulo(), getDuracaoEmMinutos(), getDuracaoEmHoras());
     }
 }
