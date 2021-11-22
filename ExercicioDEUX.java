@@ -1,4 +1,4 @@
-
+package aluasAndre;
 public class ExercicioDEUX {
 	
 	private int PaginasLidas;
